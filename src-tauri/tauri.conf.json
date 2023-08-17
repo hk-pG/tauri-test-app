@@ -33,17 +33,8 @@
     "security": {
       "csp": null
     },
-    "windows": [
-      {
-        "fullscreen": false,
-        "resizable": true,
-        "title": "test-app",
-        "width": 800,
-        "height": 600
-      }
-    ],
     "systemTray": {
-      "iconPath": "/src-tauri/icons/128x128.png",
+      "iconPath": "icons/128x128.png",
       "iconAsTemplate": true
     }
   }
